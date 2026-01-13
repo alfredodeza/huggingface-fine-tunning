@@ -1,0 +1,20 @@
+[Step    8] eval_loss: 0.4441  eval_accuracy: 0.8750  eval_runtime: 0.0143  eval_samples_per_second: 1116.7130  eval_steps_per_second: 139.5890  epoch: 1.0000  
+[Step   10] loss: 0.5652  grad_norm: 7.5238  learning_rate: 0.0000  epoch: 1.2500  
+[Step   16] eval_loss: 0.1663  eval_accuracy: 1.0000  eval_runtime: 0.0108  eval_samples_per_second: 1481.3990  eval_steps_per_second: 185.1750  epoch: 2.0000  
+[Step   20] loss: 0.2283  grad_norm: 4.1235  learning_rate: 0.0000  epoch: 2.5000  
+[Step   24] eval_loss: 0.1144  eval_accuracy: 1.0000  eval_runtime: 0.0107  eval_samples_per_second: 1489.2890  eval_steps_per_second: 186.1610  epoch: 3.0000  
+[Step   30] loss: 0.0741  grad_norm: 1.1435  learning_rate: 0.0000  epoch: 3.7500  
+[Step   32] eval_loss: 0.0226  eval_accuracy: 1.0000  eval_runtime: 0.0109  eval_samples_per_second: 1472.4280  eval_steps_per_second: 184.0540  epoch: 4.0000  
+[Step   40] loss: 0.0189  grad_norm: 0.3227  learning_rate: 0.0000  epoch: 5.0000  
+[Step   40] eval_loss: 0.0098  eval_accuracy: 1.0000  eval_runtime: 0.0079  eval_samples_per_second: 2037.3060  eval_steps_per_second: 254.6630  epoch: 5.0000  
+[Step   40] train_runtime: 0.8567  train_samples_per_second: 747.0130  train_steps_per_second: 93.3770  total_flos: 4933332288000.0000  train_loss: 0.2216  epoch: 5.0000  
+[Step    8] eval_loss: 0.4018  eval_accuracy: 0.9375  eval_runtime: 0.0146  eval_samples_per_second: 1096.1920  eval_steps_per_second: 137.0240  epoch: 1.0000  
+[Step   10] loss: 0.5686  grad_norm: 6.0218  learning_rate: 0.0000  epoch: 1.2500  
+[Step   16] eval_loss: 0.1307  eval_accuracy: 1.0000  eval_runtime: 0.0113  eval_samples_per_second: 1415.0820  eval_steps_per_second: 176.8850  epoch: 2.0000  
+[Step   20] loss: 0.2296  grad_norm: 2.4327  learning_rate: 0.0000  epoch: 2.5000  
+[Step   24] eval_loss: 0.1168  eval_accuracy: 0.9375  eval_runtime: 0.0108  eval_samples_per_second: 1474.7900  eval_steps_per_second: 184.3490  epoch: 3.0000  
+[Step   30] loss: 0.0441  grad_norm: 0.4012  learning_rate: 0.0000  epoch: 3.7500  
+[Step   32] eval_loss: 0.0091  eval_accuracy: 1.0000  eval_runtime: 0.0112  eval_samples_per_second: 1428.8210  eval_steps_per_second: 178.6030  epoch: 4.0000  
+[Step   40] loss: 0.0082  grad_norm: 0.1215  learning_rate: 0.0000  epoch: 5.0000  
+[Step   40] eval_loss: 0.0031  eval_accuracy: 1.0000  eval_runtime: 0.0088  eval_samples_per_second: 1820.7410  eval_steps_per_second: 227.5930  epoch: 5.0000  
+[Step   40] train_runtime: 0.9234  train_samples_per_second: 693.1160  train_steps_per_second: 86.6400  total_flos: 4933332288000.0000  train_loss: 0.2126  epoch: 5.0000  
