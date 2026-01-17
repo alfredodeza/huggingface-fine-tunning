@@ -1,0 +1,43 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient definitions -->
+  <defs>
+      <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+          <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="taglineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+      </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGradient)"/>
+
+  <!-- Decorative elements -->
+  <circle cx="700" cy="100" r="120" fill="#667eea" opacity="0.1"/>
+  <circle cx="100" cy="150" r="80" fill="#f093fb" opacity="0.1"/>
+
+  <!-- HuggingFace emoji/icon representation -->
+  <text x="60" y="115" font-size="60" fill="#FFD21E">&#129303;</text>
+
+  <!-- Main title -->
+  <text x="140" y="90" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#headerGradient)">
+      Fine-tuning with Hugging Face
+  </text>
+
+  <!-- Tagline -->
+  <text x="140" y="130" font-family="Arial, sans-serif" font-size="20" fill="url(#taglineGradient)">
+      From Pragmatic AI Labs
+  </text>
+
+  <!-- Subtitle -->
+  <text x="140" y="165" font-family="Arial, sans-serif" font-size="14" fill="#888888">
+      Learn to fine-tune transformers for text classification and more
+  </text>
+</svg>
