@@ -1,7 +1,7 @@
 # You can try to make these examples work with the following packages:
 datasets 
 pandas 
-pytorch 
+torch 
 numpy 
 scikit-learn
 transformers
